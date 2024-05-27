@@ -5,6 +5,7 @@
 
 |    Model     |                            Paper                             | Venue | Year |                             Code                             | Time       |
 | :----------: | :----------------------------------------------------------: | :---: | :--: | :----------------------------------------------------------: | ---------- |
+|    Oriented RepPoints    | [Oriented RepPoints for Aerial Object Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Oriented_RepPoints_for_Aerial_Object_Detection_CVPR_2022_paper.pdf) | CVPR | 2022 |        [Python]( https://github.com/open-mmlab/mmrotate/blob/main/configs/oriented_reppoints/README.md)        | 2024.05.20 |
 |    YOLOv9    | [[2402.13616\] YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information (arxiv.org)](https://arxiv.org/abs/2402.13616) | arxiv | 2024 |        [Python](https://github.com/WongKinYiu/yolov9)        | 2024.05.15 |
 |    LSKNet    | [LSKNet: Large Selective Kernel Network for Remote Sensing Object Detection](https://arxiv.org/pdf/2303.09030.pdf)| CVPR  | 2023 |       [Python](https://github.com/zcablii/LSKNet)       | 2024.05.10 |
 |    HRNet    | [Deep High-Resolution Representation Learning for Human Pose Estimation](https://arxiv.org/abs/1902.09212)| CVPR  | 2019 |       [Python](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)       | 2024.05.01 |
