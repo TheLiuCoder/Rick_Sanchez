@@ -5,7 +5,6 @@
 
 |    Model     |                            Paper                             | Venue | Year |                             Code                             | Time       |
 | :----------: | :----------------------------------------------------------: | :---: | :--: | :----------------------------------------------------------: | ---------- |
-
 |    LSKNet    | [LSKNet: Large Selective Kernel Network for Remote Sensing Object Detection](https://arxiv.org/pdf/2303.09030.pdf)| CVPR  | 2023 |       [Python](https://github.com/zcablii/LSKNet)       | 2024.05.10 |
 |    HRNet    | [Deep High-Resolution Representation Learning for Human Pose Estimation](https://arxiv.org/abs/1902.09212)| CVPR  | 2019 |       [Python](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)       | 2024.05.01 |
 |    YOLOv7    | [YOLOv7: Trainable Bag-of-Freebies Sets New State-of-the-Art for Real-Time Object Detectors (thecvf.com)](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_YOLOv7_Trainable_Bag-of-Freebies_Sets_New_State-of-the-Art_for_Real-Time_Object_Detectors_CVPR_2023_paper.pdf) | CVPR  | 2023 |       [Python](https://github.com/WongKinYiu/yolov7)       | 2024.05.01 |
